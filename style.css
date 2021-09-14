@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./pexels-photo-136659.jpeg);
+
+}
+
+
+
+header nav ul li{
+   display: inline-block;
+}
+ul{ 
+    margin-top: 30px;   
+    text-align: center; 
+    text-transform: uppercase;
+}
+.li a{
+    text-decoration:none;
+    margin-right: 30px;
+    font-size: 12px;
+    font-weight: 900;
+    color:  #000000;
+}
+h1{
+    position: absolute;
+    margin-left: 208px;
+    margin-top: 300px;
+    color: #000000; 
+    font-size: 25px;
+} 
+h1 span{
+    font-size: 30px;
+    color: #F8AF2A;
+}
+p{
+    position: absolute;
+    margin-left: 208px;
+    margin-top: 460px;
+    color: #000000; 
+    font-size: 20px;
+} 
+button{
+    position: absolute;
+width: 194px;
+height: 50px;
+margin-left: 208px;
+margin-top: 762px;
+background: #F8AF2A;
+border: 2px solid #F8AF2A;
+border-radius: 48px;
+}
+.id {
+    margin-left: 900px;
+    margin-top: -100px;
+}
+.container .like {
+    margin-left: 40%;
+    margin-top: -24px;
+}
+.like .jojo{
+    padding-left: 140px;
+}
